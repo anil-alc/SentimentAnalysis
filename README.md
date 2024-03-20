@@ -1,0 +1,1 @@
+A project utilizing Python for sentiment analysis on Hepsiburada comments text data using NLP techniques. It involves data preprocessing, numerical transformations, and prediction of emotional content in texts using various ML algorithms.
